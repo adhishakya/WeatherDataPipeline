@@ -10,4 +10,4 @@ CREATE TABLE weather_data(
     humidity float,
     response_timestamp timestamp,
     stored_timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-)
+);
